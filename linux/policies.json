@@ -1,7 +1,7 @@
 {
   "policies": {
     "AllowedDomainsForApps": "managedfirefox.com,example.com",
-    "AppAutoUpdate": true | false,
+    "AppAutoUpdate": true, | false
     "AppUpdatePin": "106.",
     "AppUpdateURL": "https://yoursite.com",
     "Authentication": {
