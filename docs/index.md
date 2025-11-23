@@ -39,7 +39,7 @@ Note: The `policies.json` must use the UTF-8 encoding.
 | **[`ContentAnalysis`](#contentanalysis)** | Configure Firefox to use an agent for Data Loss Prevention (DLP) that is compatible with the [Google Chrome Content Analysis Connector Agent SDK](https://github.com/chromium/content_analysis_sdk).
 | **[`Cookies`](#cookies)** | Configure cookie preferences.
 | **[`DefaultDownloadDirectory`](#defaultdownloaddirectory)** | Set the default download directory.
-| **[`DisableAppUpdate`](#disableappupdate)** | Turn off application updates.
+| **[`DisableAppUpdate`]()** | Turn off application updates.
 | **[`DisableBuiltinPDFViewer`](#disablebuiltinpdfviewer)** | Disable the built in PDF viewer.
 | **[`DisabledCiphers`](#disabledciphers)** | Disable ciphers.
 | **[`DisableDefaultBrowserAgent`](#disabledefaultbrowseragent)** | Prevent the default browser agent from taking any actions (Windows only).
