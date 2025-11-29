@@ -1,7 +1,7 @@
 {
   "policies": {
     "AllowedDomainsForApps": "managedfirefox.com,example.com",
-    "AppAutoUpdate": true | false,
+    "AppAutoUpdate": true, | false
     "AppUpdatePin": "106.",
     "AppUpdateURL": "https://yoursite.com",
     "Authentication": {
@@ -16,7 +16,7 @@
         "SPNEGO": true | false,
         "NTLM": true | false
       },
-      "Locked": true | false,
+      "Locked": true, | false
       "PrivateBrowsing": true | false
     },
     "AutoLaunchProtocolsFromOrigins": [{
@@ -84,7 +84,7 @@
       "SafeBrowsing": true | false
     },
     "DisableSetDesktopBackground": true | false,
-    "DisableSystemAddonUpdate": true | false,
+    "DisableSystemAddonUpdate": true, | false
     "DisableTelemetry": true | false,
     "DisplayBookmarksToolbar": "always" | "never" | "newtab",
     "DisplayMenuBar": "always" | "never" | "default-on" | "default-off",
